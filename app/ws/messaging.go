@@ -8,9 +8,9 @@ import (
 
 	"github.com/gofiber/contrib/websocket"
 	"github.com/gofiber/fiber/v2"
-	"github.com/kooroshh/fiber-boostrap/app/models"
-	"github.com/kooroshh/fiber-boostrap/app/repository"
-	"github.com/kooroshh/fiber-boostrap/pkg/env"
+	"github.com/rdanii/go-simple-messaging-app/app/models"
+	"github.com/rdanii/go-simple-messaging-app/app/repository"
+	"github.com/rdanii/go-simple-messaging-app/pkg/env"
 	"go.elastic.co/apm"
 )
 

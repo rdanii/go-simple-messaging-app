@@ -10,10 +10,10 @@ import (
 	"github.com/gofiber/fiber/v2/middleware/monitor"
 	"github.com/gofiber/fiber/v2/middleware/recover"
 	"github.com/gofiber/template/html/v2"
-	"github.com/kooroshh/fiber-boostrap/app/ws"
-	"github.com/kooroshh/fiber-boostrap/pkg/database"
-	"github.com/kooroshh/fiber-boostrap/pkg/env"
-	"github.com/kooroshh/fiber-boostrap/pkg/router"
+	"github.com/rdanii/go-simple-messaging-app/app/ws"
+	"github.com/rdanii/go-simple-messaging-app/pkg/database"
+	"github.com/rdanii/go-simple-messaging-app/pkg/env"
+	"github.com/rdanii/go-simple-messaging-app/pkg/router"
 	"go.elastic.co/apm"
 )
 

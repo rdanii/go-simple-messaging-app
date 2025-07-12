@@ -6,8 +6,8 @@ import (
 	"log"
 	"os"
 
-	"github.com/kooroshh/fiber-boostrap/app/models"
-	"github.com/kooroshh/fiber-boostrap/pkg/env"
+	"github.com/rdanii/go-simple-messaging-app/app/models"
+	"github.com/rdanii/go-simple-messaging-app/pkg/env"
 	"go.mongodb.org/mongo-driver/mongo"
 	"go.mongodb.org/mongo-driver/mongo/options"
 	"gorm.io/driver/mysql"

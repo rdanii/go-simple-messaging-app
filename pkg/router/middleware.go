@@ -5,9 +5,9 @@ import (
 	"time"
 
 	"github.com/gofiber/fiber/v2"
-	"github.com/kooroshh/fiber-boostrap/app/repository"
-	"github.com/kooroshh/fiber-boostrap/pkg/jwt_token"
-	"github.com/kooroshh/fiber-boostrap/pkg/response"
+	"github.com/rdanii/go-simple-messaging-app/app/repository"
+	"github.com/rdanii/go-simple-messaging-app/pkg/jwt_token"
+	"github.com/rdanii/go-simple-messaging-app/pkg/response"
 	"go.elastic.co/apm"
 )
 

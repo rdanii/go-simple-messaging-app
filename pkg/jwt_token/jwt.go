@@ -6,7 +6,7 @@ import (
 	"time"
 
 	"github.com/golang-jwt/jwt/v5"
-	"github.com/kooroshh/fiber-boostrap/pkg/env"
+	"github.com/rdanii/go-simple-messaging-app/pkg/env"
 	"go.elastic.co/apm"
 )
 

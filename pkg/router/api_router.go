@@ -3,7 +3,7 @@ package router
 import (
 	"github.com/gofiber/fiber/v2"
 	"github.com/gofiber/fiber/v2/middleware/limiter"
-	"github.com/kooroshh/fiber-boostrap/app/controllers"
+	"github.com/rdanii/go-simple-messaging-app/app/controllers"
 	"go.elastic.co/apm/module/apmfiber"
 )
 

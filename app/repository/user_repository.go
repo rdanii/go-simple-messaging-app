@@ -4,8 +4,8 @@ import (
 	"context"
 	"time"
 
-	"github.com/kooroshh/fiber-boostrap/app/models"
-	"github.com/kooroshh/fiber-boostrap/pkg/database"
+	"github.com/rdanii/go-simple-messaging-app/app/models"
+	"github.com/rdanii/go-simple-messaging-app/pkg/database"
 	"go.elastic.co/apm"
 )
 
